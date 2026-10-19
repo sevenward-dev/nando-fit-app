@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000360723205",
+    "project_id": "nandofit",
+    "storage_bucket": "nandofit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000360723205:android:3d3fce886b34290a15ad6c",
+        "android_client_info": {
+          "package_name": "com.sevenward.nandofit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7N46190MU0ZwAexywxgXhRTWViByG8yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
